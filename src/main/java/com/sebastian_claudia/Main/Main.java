@@ -1,5 +1,5 @@
 package com.sebastian_claudia.Main;
-
+import static com.sebastian_claudia.pruebas.MyUtils.*;
 /**
  *
  * @author Sebastian Rengifo
@@ -8,6 +8,7 @@ package com.sebastian_claudia.Main;
 public class Main {
 
     public static void main(String[] args) {
+        saludar();
         
     }
 }
