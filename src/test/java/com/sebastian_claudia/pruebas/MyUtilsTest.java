@@ -55,6 +55,7 @@ public class MyUtilsTest {
         assertEquals(1, MyUtils.factorial(0));
         assertEquals(-1, MyUtils.factorial(-3));
         assertEquals(6, MyUtils.factorial(3));
+        assertTrue(MyUtils.factorial(3)==6);//True
     }
     
     
